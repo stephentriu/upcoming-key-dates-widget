@@ -1,0 +1,2002 @@
+[
+  {
+    "type": "Application",
+    "id": "ef76bc10-9ae8-4c84-ba16-4264c13473e9",
+    "attributes": {
+      "past_key_dates": { "Settled": "11/06/2024" },
+      "key_dates": { "Auction Date": "10/07/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Debt Consolidation",
+    "amount": 689731,
+    "user_reference": 973182,
+    "client_account": {
+      "id": "aed4fd4a-548d-4c9b-8739-a4249064c7af",
+      "primary_applicant_info": {
+        "mobile": "+61.470.659.690",
+        "email": "kdavis@example.net"
+      },
+      "name": "Kelly Smith"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "9ce75a89-4158-47cf-8dd2-7a4d957deabc",
+    "attributes": {
+      "past_key_dates": { "Settled": "13/09/2024" },
+      "key_dates": { "Settled": "06/01/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Leisure Purchase",
+    "amount": 377713,
+    "user_reference": 757085,
+    "client_account": {
+      "id": "a26c40fb-e86a-47c9-bb3f-1973d5c5146e",
+      "primary_applicant_info": {
+        "mobile": "(08)-8242-2967",
+        "email": "nancyolson@example.org"
+      },
+      "name": "Andrew Johnson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "ab1a7b65-b757-44ac-b106-9b4141811f5d",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "02/06/2024" },
+      "key_dates": { "Fixed Rate Expiry": "04/01/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Purchase Vacant Land",
+    "amount": 214107,
+    "user_reference": 262171,
+    "client_account": {
+      "id": "17c06c56-69ce-4e74-8741-58be6f19e675",
+      "primary_applicant_info": {
+        "mobile": "2840 9078",
+        "email": "stewartjake@example.com"
+      },
+      "name": "Stacie Scott"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "558eaad9-299a-46a7-86ba-f46f8d880055",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "30/07/2024" },
+      "key_dates": { "Settled": "09/09/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 264651,
+    "user_reference": 839310,
+    "client_account": {
+      "id": "ff8f1d30-0c6e-457e-8122-e4910bca2e49",
+      "primary_applicant_info": {
+        "mobile": "+61.402.691.126",
+        "email": "mramsey@example.com"
+      },
+      "name": "Stacy Duncan"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "23ed3b65-57a4-4c14-ac16-1a6399f0cffd",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "21/04/2024" },
+      "key_dates": { "Est. Settlement Date": "02/09/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 606065,
+    "user_reference": 504075,
+    "client_account": {
+      "id": "0f1f726b-812c-4a59-a84a-806dd6a72c78",
+      "primary_applicant_info": {
+        "mobile": "+61-3-4284-8426",
+        "email": "gcoleman@example.com"
+      },
+      "name": "Abigail Melton"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "4e733221-cc54-4125-adcc-94d856588ae2",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "25/03/2024" },
+      "key_dates": { "Auction Date": "03/12/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Refinance",
+    "amount": 228430,
+    "user_reference": 118325,
+    "client_account": {
+      "id": "5c70ab53-b181-4013-bec8-a44bab3239ff",
+      "primary_applicant_info": {
+        "mobile": "+61-493-576-605",
+        "email": "tinahunt@example.org"
+      },
+      "name": "Michelle Smith"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "b25fdbfd-f73a-431f-a851-2910b4124297",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "07/06/2024" },
+      "key_dates": { "Finance Due": "21/11/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Vehicle Purchase",
+    "amount": 855375,
+    "user_reference": 522086,
+    "client_account": {
+      "id": "2afe5700-1206-4e3a-872b-d8ea7d008600",
+      "primary_applicant_info": {
+        "mobile": "0467-442-874",
+        "email": "matthew44@example.com"
+      },
+      "name": "Joshua Hernandez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "3644fac5-54e5-4f02-9d81-6d4e8945a618",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "23/03/2024" },
+      "key_dates": { "Est. Settlement Date": "14/05/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Purchase Investment Property",
+    "amount": 643011,
+    "user_reference": 449561,
+    "client_account": {
+      "id": "0db8659e-1ff1-4b51-9853-b28bd58dedaf",
+      "primary_applicant_info": {
+        "mobile": "+61-2-4715-6948",
+        "email": "stephaniesmith@example.org"
+      },
+      "name": "Elizabeth James"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "7bee8f77-e20a-4352-b550-5d27b6566534",
+    "attributes": {
+      "past_key_dates": { "Settled": "08/02/2024" },
+      "key_dates": { "Settled": "22/02/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Leisure Purchase",
+    "amount": 987717,
+    "user_reference": 229880,
+    "client_account": {
+      "id": "01ef3b61-9b1c-476c-9734-8759fb0bad89",
+      "primary_applicant_info": {
+        "mobile": "07.9697.9726",
+        "email": "curtispatel@example.com"
+      },
+      "name": "Maria Martinez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "e2469771-8baf-481e-87cb-408862116eeb",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "30/06/2024" },
+      "key_dates": { "Est. Settlement Date": "01/06/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 184940,
+    "user_reference": 251733,
+    "client_account": {
+      "id": "0a18a152-ae22-45ca-aa50-4ed926995774",
+      "primary_applicant_info": {
+        "mobile": "9298.3696",
+        "email": "susanbeltran@example.com"
+      },
+      "name": "Eric Clark"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "e6e9970a-b1de-4f2c-bac2-4783fd9f758c",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "18/06/2024" },
+      "key_dates": { "Fixed Rate Expiry": "02/09/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Leisure Purchase",
+    "amount": 763541,
+    "user_reference": 688224,
+    "client_account": {
+      "id": "d962f58c-cda9-42f5-8458-6844f0bee7dc",
+      "primary_applicant_info": {
+        "mobile": "5729.7573",
+        "email": "dnolan@example.com"
+      },
+      "name": "Jennifer Pearson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "51a2fa06-656b-4f21-8ccd-02366ecfd838",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "02/04/2024" },
+      "key_dates": { "Est. Settlement Date": "10/10/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Reverse Mortgage",
+    "amount": 614516,
+    "user_reference": 104217,
+    "client_account": {
+      "id": "44ffd277-451d-46db-bfe9-16b1703df666",
+      "primary_applicant_info": {
+        "mobile": "+61.445.360.818",
+        "email": "mlopez@example.net"
+      },
+      "name": "Leslie Sanchez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "8cddce79-6242-49e5-977e-e338319a1228",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "30/08/2024" },
+      "key_dates": { "Settled": "11/06/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Reverse Mortgage",
+    "amount": 767402,
+    "user_reference": 474336,
+    "client_account": {
+      "id": "69e314ff-ec0c-46f2-ae8f-9b49579921e3",
+      "primary_applicant_info": {
+        "mobile": "89957045",
+        "email": "andre38@example.com"
+      },
+      "name": "James Owens"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "b9db3da6-1957-49a0-a72c-1b1da1c106aa",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "04/07/2024" },
+      "key_dates": { "Fixed Rate Expiry": "06/08/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Reverse Mortgage",
+    "amount": 85499,
+    "user_reference": 319394,
+    "client_account": {
+      "id": "5f0a34d8-886f-4e53-9cdd-670201a30f46",
+      "primary_applicant_info": {
+        "mobile": "+61857922593",
+        "email": "jeffreycasey@example.com"
+      },
+      "name": "Jasmine Rodriguez MD"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "39d11758-280d-4c7e-bedf-70e3489c33c0",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "03/05/2024" },
+      "key_dates": { "Finance Due": "07/10/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Bridging",
+    "amount": 481039,
+    "user_reference": 593672,
+    "client_account": {
+      "id": "dcb4dd6b-5bff-499e-8ca5-4d983a63054e",
+      "primary_applicant_info": {
+        "mobile": "0471 809 079",
+        "email": "jlong@example.com"
+      },
+      "name": "Michael Matthews"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "e065471e-d7f0-4bbc-9326-61a8579aae8b",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "26/11/2024" },
+      "key_dates": { "Finance Due": "01/05/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Vehicle Purchase",
+    "amount": 176859,
+    "user_reference": 475163,
+    "client_account": {
+      "id": "c3c9d101-e1f8-49b2-b225-d677dbf593a8",
+      "primary_applicant_info": {
+        "mobile": "+61.8.0743.7110",
+        "email": "amy97@example.com"
+      },
+      "name": "Mr. Jose Herrera MD"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "c4b4a564-6b73-4bbc-ab70-c88e588bfcb6",
+    "attributes": {
+      "past_key_dates": { "Settled": "08/09/2024" },
+      "key_dates": { "Pre-Approval Expiry": "17/12/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Leisure Purchase",
+    "amount": 580445,
+    "user_reference": 167248,
+    "client_account": {
+      "id": "663ebaea-31bf-4bce-b383-d0d98d12ed96",
+      "primary_applicant_info": {
+        "mobile": "+61817301111",
+        "email": "andrewsrichard@example.net"
+      },
+      "name": "Courtney Lyons"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "66480c1c-b555-41ed-a353-3774d097b0a1",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "08/01/2024" },
+      "key_dates": { "Finance Due": "01/05/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 924121,
+    "user_reference": 346907,
+    "client_account": {
+      "id": "7fc1bed2-e5d7-4043-aa4e-bd9478269a2c",
+      "primary_applicant_info": {
+        "mobile": "+61.413.195.407",
+        "email": "craigchristopher@example.com"
+      },
+      "name": "Cynthia Schneider"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "88a7743a-86df-4f59-b28e-c333131855c0",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "29/08/2024" },
+      "key_dates": { "Settled": "26/04/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Reverse Mortgage",
+    "amount": 377198,
+    "user_reference": 941479,
+    "client_account": {
+      "id": "3fadc0e8-9f94-47f6-9c65-2dd3240404f8",
+      "primary_applicant_info": {
+        "mobile": "+61 3 3475 7721",
+        "email": "lauren24@example.com"
+      },
+      "name": "Mrs. Amy Campbell DDS"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "3295d526-e146-445b-a0c6-a7eba3bf9efc",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "16/07/2024" },
+      "key_dates": { "Auction Date": "24/08/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Other Purpose",
+    "amount": 188038,
+    "user_reference": 202202,
+    "client_account": {
+      "id": "bd64d78d-1308-49e1-b6bc-01892ae2c940",
+      "primary_applicant_info": {
+        "mobile": "8701-9555",
+        "email": "lhughes@example.net"
+      },
+      "name": "Justin Spencer"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "ccb11a19-f8e1-41b2-b11b-a5afb0615e0c",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "06/05/2024" },
+      "key_dates": { "Finance Due": "17/04/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Other Purpose",
+    "amount": 564373,
+    "user_reference": 706854,
+    "client_account": {
+      "id": "2821516f-b33c-4cd1-9d62-59724afcf4d5",
+      "primary_applicant_info": {
+        "mobile": "7051-7457",
+        "email": "garybennett@example.org"
+      },
+      "name": "Samantha Schroeder"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "8afbd932-0e40-4fe8-a529-0e2f6c3bf619",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "17/10/2024" },
+      "key_dates": { "Auction Date": "28/12/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 698132,
+    "user_reference": 386658,
+    "client_account": {
+      "id": "818fb395-8cb1-4655-b240-e1481da70554",
+      "primary_applicant_info": {
+        "mobile": "+61-491-369-644",
+        "email": "shelleybaxter@example.net"
+      },
+      "name": "Rachel Robertson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "cc0eaf25-a826-4443-9f8b-a50491c94027",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "27/05/2024" },
+      "key_dates": { "Est. Settlement Date": "13/08/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Leisure Purchase",
+    "amount": 884756,
+    "user_reference": 225160,
+    "client_account": {
+      "id": "ef7589ba-9939-45d6-ae7a-db415a0ba5cc",
+      "primary_applicant_info": {
+        "mobile": "+61779034309",
+        "email": "anthonyrobinson@example.net"
+      },
+      "name": "Richard Gray"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "a983d642-5028-4d21-b791-a0804ce102fb",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "30/04/2024" },
+      "key_dates": { "Fixed Rate Expiry": "19/04/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Purchase Owner Occupied Dwelling",
+    "amount": 596010,
+    "user_reference": 971233,
+    "client_account": {
+      "id": "7a7bf6ae-c0da-4f04-926f-96590a9b3628",
+      "primary_applicant_info": {
+        "mobile": "(03) 7247 4292",
+        "email": "fchristian@example.net"
+      },
+      "name": "Scott Nunez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "2808bc0e-1cb9-472f-b388-30d8ff38a703",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "07/10/2024" },
+      "key_dates": { "Settled": "05/03/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Other Purpose",
+    "amount": 808929,
+    "user_reference": 773578,
+    "client_account": {
+      "id": "2931018e-2b47-49bd-b00d-3ff9378d7c8b",
+      "primary_applicant_info": {
+        "mobile": "(02)-5224-4316",
+        "email": "carolmorales@example.com"
+      },
+      "name": "Barbara Kerr"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "830c52d7-e468-4396-8531-f86baf20bd64",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "15/03/2024" },
+      "key_dates": { "Fixed Rate Expiry": "27/11/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Reverse Mortgage",
+    "amount": 422503,
+    "user_reference": 845417,
+    "client_account": {
+      "id": "8d120f22-ebe3-4621-b5c9-e4bbdfee916d",
+      "primary_applicant_info": {
+        "mobile": "0369946482",
+        "email": "julie55@example.org"
+      },
+      "name": "Elizabeth Edwards MD"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "b7caff87-3e71-4d92-93b9-8635fb73e0de",
+    "attributes": {
+      "past_key_dates": { "Settled": "30/11/2024" },
+      "key_dates": { "Est. Settlement Date": "10/10/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Construct / Renovate Owner Occupied Dwelling",
+    "amount": 720492,
+    "user_reference": 166113,
+    "client_account": {
+      "id": "05ac413e-8687-4a43-8032-901e5afedcb6",
+      "primary_applicant_info": {
+        "mobile": "0437-081-852",
+        "email": "mpowell@example.org"
+      },
+      "name": "Jessica Wallace"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "f5a95fa3-5846-409c-9135-5c57e3fe9815",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "06/02/2024" },
+      "key_dates": { "Pre-Approval Expiry": "13/01/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Leisure Purchase",
+    "amount": 764256,
+    "user_reference": 404254,
+    "client_account": {
+      "id": "e2f9ffd8-f5f5-46a1-aad9-01d172a65302",
+      "primary_applicant_info": {
+        "mobile": "3522-9142",
+        "email": "randallwalker@example.net"
+      },
+      "name": "Peter Mosley"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "f510ee5a-82c2-45fe-a085-3567fd598d39",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "31/08/2024" },
+      "key_dates": { "Fixed Rate Expiry": "21/06/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Debt Consolidation",
+    "amount": 817105,
+    "user_reference": 891776,
+    "client_account": {
+      "id": "14f306f7-a427-4a15-ad16-e6f2d86ea5d3",
+      "primary_applicant_info": {
+        "mobile": "(02)27519611",
+        "email": "rodriguezanita@example.org"
+      },
+      "name": "Thomas Garcia"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "02ffd52c-9c99-4173-a7fc-bd59ba1468f7",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "13/10/2024" },
+      "key_dates": { "Settled": "26/03/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Medical Purchase",
+    "amount": 136351,
+    "user_reference": 904345,
+    "client_account": {
+      "id": "64597be4-23bc-4e6f-935c-94db3e6d6dd4",
+      "primary_applicant_info": {
+        "mobile": "+61.8.1466.2557",
+        "email": "maryreed@example.org"
+      },
+      "name": "Rachael Stanley"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "917822df-33d3-415f-9b4d-5aeba6f09c8b",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "05/03/2024" },
+      "key_dates": { "Fixed Rate Expiry": "01/12/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Reverse Mortgage",
+    "amount": 703511,
+    "user_reference": 567420,
+    "client_account": {
+      "id": "97fb74d1-591c-4082-9928-1c7f1ac0c552",
+      "primary_applicant_info": {
+        "mobile": "8270.2248",
+        "email": "kaitlin36@example.com"
+      },
+      "name": "Brandon Tucker"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "3187f270-4e91-4c12-847e-54f232d93889",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "18/04/2024" },
+      "key_dates": { "Auction Date": "02/09/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 325385,
+    "user_reference": 799853,
+    "client_account": {
+      "id": "f88928ac-c5af-408a-9cf3-e2619638f510",
+      "primary_applicant_info": {
+        "mobile": "3726 9931",
+        "email": "malikhall@example.org"
+      },
+      "name": "Laura Rodriguez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "48ce181a-2b4c-4ec2-b9f4-1cd0d008af5e",
+    "attributes": {
+      "past_key_dates": { "Settled": "26/11/2024" },
+      "key_dates": { "Pre-Approval Expiry": "02/09/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 646321,
+    "user_reference": 127149,
+    "client_account": {
+      "id": "cbcf2bcf-4b62-4388-80c9-f3ac36ea6ee8",
+      "primary_applicant_info": {
+        "mobile": "02.0041.6210",
+        "email": "robertrodriguez@example.net"
+      },
+      "name": "Jessica Morgan"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "63b90b23-b2e3-4ebd-afdf-2977cc9b5ecb",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "04/10/2024" },
+      "key_dates": { "Finance Due": "30/06/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Purchase Vacant Land",
+    "amount": 603604,
+    "user_reference": 103589,
+    "client_account": {
+      "id": "934e4d6a-b729-4169-825f-e57aaa62d58d",
+      "primary_applicant_info": {
+        "mobile": "(02)-4121-0685",
+        "email": "katie30@example.com"
+      },
+      "name": "Michael Lopez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "c9fb45f5-bc91-4fea-8d15-f4649ae48d39",
+    "attributes": {
+      "past_key_dates": { "Settled": "04/08/2024" },
+      "key_dates": { "Settled": "14/02/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Construction",
+    "amount": 682404,
+    "user_reference": 849834,
+    "client_account": {
+      "id": "e11d0c16-00a3-4f7f-a7d4-0fd0655d0cb1",
+      "primary_applicant_info": {
+        "mobile": "1327.4392",
+        "email": "sheilahiggins@example.org"
+      },
+      "name": "Lori Potter"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "f08b3fd2-078c-4b57-abcc-abdc748bc8c6",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "30/06/2024" },
+      "key_dates": { "Fixed Rate Expiry": "15/01/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Purchase Vacant Land",
+    "amount": 126893,
+    "user_reference": 308853,
+    "client_account": {
+      "id": "6c8d1084-e8b0-4fb1-add2-90c226724919",
+      "primary_applicant_info": {
+        "mobile": "0443 114 795",
+        "email": "bernard14@example.org"
+      },
+      "name": "John Rodgers"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "4a71de3c-d0ea-42f0-86f0-b5bec78c37e2",
+    "attributes": {
+      "past_key_dates": { "Settled": "15/02/2024" },
+      "key_dates": { "Settled": "22/07/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Debt Consolidation",
+    "amount": 823532,
+    "user_reference": 240382,
+    "client_account": {
+      "id": "d1baa726-7757-437b-bdcd-2acfd9b059a1",
+      "primary_applicant_info": {
+        "mobile": "+61 2 8669 1591",
+        "email": "aprilgarcia@example.com"
+      },
+      "name": "Jeanne Ferguson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "45e8f70d-22bd-42d3-b383-c983174f35da",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "22/06/2024" },
+      "key_dates": { "Pre-Approval Expiry": "27/07/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 340148,
+    "user_reference": 888220,
+    "client_account": {
+      "id": "bf5c20cc-0f53-46db-bc56-e100e266559d",
+      "primary_applicant_info": {
+        "mobile": "0898564332",
+        "email": "silvagregg@example.org"
+      },
+      "name": "Jennifer Delgado"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "2fca44ce-0b79-424f-a85d-220734ede820",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "30/07/2024" },
+      "key_dates": { "Finance Due": "05/02/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Refinance",
+    "amount": 49590,
+    "user_reference": 127415,
+    "client_account": {
+      "id": "26e55ea6-fead-4c91-ac0c-f7f433430784",
+      "primary_applicant_info": {
+        "mobile": "5210.7745",
+        "email": "jonesgabrielle@example.org"
+      },
+      "name": "Amanda Stuart"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "a46d0680-7dcb-49ef-bac9-6a3ed2de334e",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "12/10/2024" },
+      "key_dates": { "Finance Due": "01/04/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Refinance",
+    "amount": 298596,
+    "user_reference": 696883,
+    "client_account": {
+      "id": "099db941-e851-4731-836a-3df4f8a14a08",
+      "primary_applicant_info": {
+        "mobile": "07.4346.8153",
+        "email": "franklinmoreno@example.org"
+      },
+      "name": "Virginia Jenkins"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "26a5843e-3773-42e6-8d6c-f74c372045a3",
+    "attributes": {
+      "past_key_dates": { "Settled": "21/01/2024" },
+      "key_dates": { "Auction Date": "24/02/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Construct / Renovate Owner Occupied Dwelling",
+    "amount": 371417,
+    "user_reference": 990520,
+    "client_account": {
+      "id": "496a4b65-ea2d-4c79-b865-8592c42160d8",
+      "primary_applicant_info": {
+        "mobile": "0447 043 562",
+        "email": "nicholsonjeffrey@example.com"
+      },
+      "name": "Edward Kramer"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "00af0b75-cc1b-42b3-a83f-551346133851",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "11/08/2024" },
+      "key_dates": { "Finance Due": "09/07/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Construction",
+    "amount": 215177,
+    "user_reference": 858659,
+    "client_account": {
+      "id": "f4a58121-88e1-4984-a161-6b9e229564a0",
+      "primary_applicant_info": {
+        "mobile": "(07).4389.8393",
+        "email": "moorerobin@example.org"
+      },
+      "name": "Nancy White"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "be76e635-0df0-4c60-9c00-8f852f5b29dc",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "19/06/2024" },
+      "key_dates": { "Pre-Approval Expiry": "25/02/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Leisure Purchase",
+    "amount": 647178,
+    "user_reference": 117267,
+    "client_account": {
+      "id": "4f805d50-6316-4567-a973-56dd8e9ee209",
+      "primary_applicant_info": {
+        "mobile": "0359 5447",
+        "email": "stephanie62@example.net"
+      },
+      "name": "Scott Richard"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "621cd9f0-8d73-4bb0-9cdc-dbe5e99b33b2",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "26/09/2024" },
+      "key_dates": { "Est. Settlement Date": "27/05/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Vehicle Purchase",
+    "amount": 983473,
+    "user_reference": 433878,
+    "client_account": {
+      "id": "9b68ea58-291a-4a6e-b15d-b849b9f264bf",
+      "primary_applicant_info": {
+        "mobile": "0412.497.891",
+        "email": "qwilson@example.org"
+      },
+      "name": "Brian Schwartz"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "711146a0-7b45-4973-91dc-8aa2e736ce65",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "30/05/2024" },
+      "key_dates": { "Auction Date": "16/09/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Medical Purchase",
+    "amount": 799512,
+    "user_reference": 877396,
+    "client_account": {
+      "id": "c6e0fd2d-8aa6-4613-acea-371e6c0a0e9a",
+      "primary_applicant_info": {
+        "mobile": "+61 422 266 618",
+        "email": "sethpatterson@example.net"
+      },
+      "name": "Kara Foster"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "56c9da02-b46a-40f5-a3ef-f30119610260",
+    "attributes": {
+      "past_key_dates": { "Settled": "29/08/2024" },
+      "key_dates": { "Est. Settlement Date": "08/08/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Bridging",
+    "amount": 342891,
+    "user_reference": 294961,
+    "client_account": {
+      "id": "a43a52b9-1ede-4613-99be-70b0412f8b01",
+      "primary_applicant_info": {
+        "mobile": "02 0837 7110",
+        "email": "zmcdonald@example.org"
+      },
+      "name": "Kevin Elliott"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "1cfa3204-e023-4df6-987f-c90ed100f6d6",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "29/11/2024" },
+      "key_dates": { "Fixed Rate Expiry": "16/01/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Medical Purchase",
+    "amount": 622084,
+    "user_reference": 610017,
+    "client_account": {
+      "id": "75ab1cd0-e54f-4ade-b23e-038fe50d523a",
+      "primary_applicant_info": {
+        "mobile": "08 3065 1545",
+        "email": "georgemyers@example.net"
+      },
+      "name": "Tara Brown"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "0d797bdd-d7ea-4de7-8578-7e5f2ec9527d",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "24/07/2024" },
+      "key_dates": { "Est. Settlement Date": "10/12/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Construct / Renovate Owner Occupied Dwelling",
+    "amount": 230315,
+    "user_reference": 893104,
+    "client_account": {
+      "id": "80e635d9-b179-401d-a8a7-00d3ab275362",
+      "primary_applicant_info": {
+        "mobile": "+61869032413",
+        "email": "zjacobson@example.net"
+      },
+      "name": "Danielle Heath"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "1fa1eea2-22a6-44aa-ac13-7b4a5e8a716d",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "25/07/2024" },
+      "key_dates": { "Settled": "26/03/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Medical Purchase",
+    "amount": 351281,
+    "user_reference": 637147,
+    "client_account": {
+      "id": "502b2cd1-abae-45c1-81cb-ec7fe54440d9",
+      "primary_applicant_info": {
+        "mobile": "+61.478.750.193",
+        "email": "kaylamurphy@example.com"
+      },
+      "name": "Kyle Harper"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "9c1c7852-5a96-418f-ac94-af518d904409",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "29/03/2024" },
+      "key_dates": { "Auction Date": "06/08/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Bridging",
+    "amount": 331142,
+    "user_reference": 443830,
+    "client_account": {
+      "id": "25f46d69-d113-4b5d-b210-3a51d43164a0",
+      "primary_applicant_info": {
+        "mobile": "(08).6598.2107",
+        "email": "chancharles@example.com"
+      },
+      "name": "Jacqueline Roman"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "c2d10a2a-1187-4e9a-b201-45d04bbd2d0c",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "03/02/2024" },
+      "key_dates": { "Finance Due": "14/05/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Construct / Renovate Owner Occupied Dwelling",
+    "amount": 658505,
+    "user_reference": 760883,
+    "client_account": {
+      "id": "19cbfa69-b804-469d-99f8-03f11e7c7622",
+      "primary_applicant_info": {
+        "mobile": "+61 7 0601 1214",
+        "email": "cynthia82@example.net"
+      },
+      "name": "Crystal Baker"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "bead5c5f-295c-4a82-b96f-5510655ef1bc",
+    "attributes": {
+      "past_key_dates": { "Settled": "10/06/2024" },
+      "key_dates": { "Settled": "27/11/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Purchase Vacant Land",
+    "amount": 77894,
+    "user_reference": 215370,
+    "client_account": {
+      "id": "151f5f97-2a70-47d3-b0d4-d39f1961fc45",
+      "primary_applicant_info": {
+        "mobile": "+61.7.3548.5244",
+        "email": "rachelarnold@example.org"
+      },
+      "name": "Ryan Wright"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "d371eccc-f7cb-4fd1-aaea-d2fec3417a80",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "01/11/2024" },
+      "key_dates": { "Settled": "23/11/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Leisure Purchase",
+    "amount": 803575,
+    "user_reference": 749502,
+    "client_account": {
+      "id": "614568b0-5ddd-40aa-986a-4715bc56943b",
+      "primary_applicant_info": {
+        "mobile": "0809954763",
+        "email": "jordanscott@example.net"
+      },
+      "name": "Emily Bartlett"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "e981238e-583c-4d7e-9592-6843a9d72bec",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "18/11/2024" },
+      "key_dates": { "Est. Settlement Date": "05/01/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Bridging",
+    "amount": 29625,
+    "user_reference": 678393,
+    "client_account": {
+      "id": "60ea4c76-0409-4d7e-ab78-6bc03a6efbfe",
+      "primary_applicant_info": {
+        "mobile": "(07).9382.6220",
+        "email": "ericwashington@example.org"
+      },
+      "name": "Samuel Rhodes"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "a01146b0-bc5e-4f7a-b043-fc0ed1f35dcb",
+    "attributes": {
+      "past_key_dates": { "Settled": "08/10/2024" },
+      "key_dates": { "Settled": "08/06/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Purchase Investment Property",
+    "amount": 439633,
+    "user_reference": 106616,
+    "client_account": {
+      "id": "01d3f1a6-aa2b-4b62-aaa4-166ce0dc4269",
+      "primary_applicant_info": {
+        "mobile": "(02)-6172-6686",
+        "email": "fowlerjanet@example.com"
+      },
+      "name": "Jennifer Tran"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "d75fd144-d4dd-4ac3-a1e2-355d6c275bc5",
+    "attributes": {
+      "past_key_dates": { "Settled": "16/11/2024" },
+      "key_dates": { "Est. Settlement Date": "27/05/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 259214,
+    "user_reference": 249423,
+    "client_account": {
+      "id": "85e8e55f-0920-45d5-881b-fc87326fb24c",
+      "primary_applicant_info": {
+        "mobile": "+61-453-740-181",
+        "email": "hollymccarthy@example.com"
+      },
+      "name": "Larry Hoffman"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "8e829466-2e75-489d-8c9f-1340a59541e4",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "17/05/2024" },
+      "key_dates": { "Auction Date": "05/10/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Medical Purchase",
+    "amount": 706662,
+    "user_reference": 204045,
+    "client_account": {
+      "id": "5b8470c1-0b3b-405c-a890-7960fdb882d8",
+      "primary_applicant_info": {
+        "mobile": "+61-441-501-003",
+        "email": "annetteschneider@example.com"
+      },
+      "name": "Jeffrey Robertson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "74d46a90-0049-4c1c-8a6c-37c8d464a418",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "21/07/2024" },
+      "key_dates": { "Finance Due": "24/10/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Other Purpose",
+    "amount": 576862,
+    "user_reference": 130563,
+    "client_account": {
+      "id": "ce7ec704-4512-49b0-bdd5-9f1d754435e9",
+      "primary_applicant_info": {
+        "mobile": "0499-109-206",
+        "email": "clementskelly@example.com"
+      },
+      "name": "Samantha Collins"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "3f7ec2f4-f1c1-48ec-b8a5-0d938d038368",
+    "attributes": {
+      "past_key_dates": { "Settled": "13/06/2024" },
+      "key_dates": { "Pre-Approval Expiry": "09/11/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Leisure Purchase",
+    "amount": 891821,
+    "user_reference": 702799,
+    "client_account": {
+      "id": "988d6083-34eb-4cb0-a1de-66866bf283bb",
+      "primary_applicant_info": {
+        "mobile": "0278.3530",
+        "email": "ywilson@example.org"
+      },
+      "name": "Tammy Martinez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "20e2b7b9-fa9d-4a5f-8a55-4a36ac501fab",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "27/01/2024" },
+      "key_dates": { "Finance Due": "11/11/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Refinance",
+    "amount": 606455,
+    "user_reference": 650341,
+    "client_account": {
+      "id": "5caa87f1-5470-477a-b2d1-233bc3b41e10",
+      "primary_applicant_info": {
+        "mobile": "0481-913-536",
+        "email": "jonathan46@example.net"
+      },
+      "name": "Gina Williams"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "09d04f08-4c9e-4ca5-b524-905b4af994b7",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "07/01/2024" },
+      "key_dates": { "Fixed Rate Expiry": "06/04/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Medical Purchase",
+    "amount": 688175,
+    "user_reference": 229310,
+    "client_account": {
+      "id": "803ba4f1-c104-45dc-886a-c7dc32eece71",
+      "primary_applicant_info": {
+        "mobile": "+61.8.6921.6381",
+        "email": "mcbridethomas@example.com"
+      },
+      "name": "Stephanie Hatfield"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "dc43329b-dfc3-42a8-b4b5-0154bb4b27b0",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "13/01/2024" },
+      "key_dates": { "Fixed Rate Expiry": "14/07/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Purchase Investment Property",
+    "amount": 447437,
+    "user_reference": 214109,
+    "client_account": {
+      "id": "2eb69c49-6d9c-444c-99f4-27dc0f5d27de",
+      "primary_applicant_info": {
+        "mobile": "+61798557292",
+        "email": "roberteaton@example.net"
+      },
+      "name": "Holly Thompson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "05866b41-e0c8-47b5-9ece-1ba79a2ea364",
+    "attributes": {
+      "past_key_dates": { "Settled": "03/05/2024" },
+      "key_dates": { "Pre-Approval Expiry": "25/03/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Medical Purchase",
+    "amount": 876758,
+    "user_reference": 249887,
+    "client_account": {
+      "id": "30d87b20-93d4-4e79-ba7a-073f77e2ab17",
+      "primary_applicant_info": {
+        "mobile": "26329495",
+        "email": "robertbaxter@example.net"
+      },
+      "name": "Linda Stephens"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "8c2be9f3-2c50-4b9b-989a-40d95489dc00",
+    "attributes": {
+      "past_key_dates": { "Settled": "28/04/2024" },
+      "key_dates": { "Pre-Approval Expiry": "22/05/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Construct / Renovate Owner Occupied Dwelling",
+    "amount": 715897,
+    "user_reference": 596346,
+    "client_account": {
+      "id": "1ebafae1-4ceb-4883-86c1-d8b12cf802e5",
+      "primary_applicant_info": {
+        "mobile": "+61.420.025.783",
+        "email": "wkeller@example.net"
+      },
+      "name": "Rebecca Marshall"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "813f625c-63f9-4709-938a-5180bfcb8d5d",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "29/06/2024" },
+      "key_dates": { "Finance Due": "10/08/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Purchase Owner Occupied Dwelling",
+    "amount": 488899,
+    "user_reference": 208804,
+    "client_account": {
+      "id": "ea2434ca-130f-45ec-af35-8e21761441a2",
+      "primary_applicant_info": {
+        "mobile": "7921 4220",
+        "email": "ufox@example.org"
+      },
+      "name": "Elizabeth Mclaughlin"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "2e0f351d-9d3d-4e02-8c6f-4ac27ee300d2",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "22/01/2024" },
+      "key_dates": { "Finance Due": "07/09/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Other Purpose",
+    "amount": 582310,
+    "user_reference": 300653,
+    "client_account": {
+      "id": "2822bf86-38b6-4c7c-9bb5-43eed11a53f4",
+      "primary_applicant_info": {
+        "mobile": "+61-410-510-274",
+        "email": "cfischer@example.com"
+      },
+      "name": "Kara Clark"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "66b8af80-d43c-4009-a254-a4973a5ebb50",
+    "attributes": {
+      "past_key_dates": { "Settled": "06/01/2024" },
+      "key_dates": { "Fixed Rate Expiry": "29/10/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Leisure Purchase",
+    "amount": 412392,
+    "user_reference": 857347,
+    "client_account": {
+      "id": "66beb2de-a585-4211-9f75-d996fcf2e88e",
+      "primary_applicant_info": {
+        "mobile": "+61 8 8164 4293",
+        "email": "maxwelltiffany@example.com"
+      },
+      "name": "Hannah Douglas"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "89ad1263-bc4c-4633-845f-d5567ed15d1d",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "06/09/2024" },
+      "key_dates": { "Finance Due": "16/07/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Medical Purchase",
+    "amount": 379266,
+    "user_reference": 343632,
+    "client_account": {
+      "id": "0ebba98d-308b-479c-af36-069b3461e666",
+      "primary_applicant_info": {
+        "mobile": "08-0449-9216",
+        "email": "allisonharris@example.org"
+      },
+      "name": "Victoria Bryant"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "02811c81-9c42-4d35-9ad5-efa994131a75",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "13/11/2024" },
+      "key_dates": { "Finance Due": "20/07/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Purchase Investment Property",
+    "amount": 342818,
+    "user_reference": 435901,
+    "client_account": {
+      "id": "c863d238-a44e-4a61-9431-755d937c9289",
+      "primary_applicant_info": {
+        "mobile": "+61-464-431-333",
+        "email": "andrewstracy@example.org"
+      },
+      "name": "Shane Estrada"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "257731b5-c8ef-4428-9642-af66ea162394",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "27/05/2024" },
+      "key_dates": { "Pre-Approval Expiry": "13/03/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Construction",
+    "amount": 362500,
+    "user_reference": 615195,
+    "client_account": {
+      "id": "f9685e23-a185-494c-9b65-128fe4fee580",
+      "primary_applicant_info": {
+        "mobile": "3433-6906",
+        "email": "catherinedunn@example.org"
+      },
+      "name": "Melissa Hendricks"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "705b64df-c361-46ec-b836-47e81d611522",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "31/05/2024" },
+      "key_dates": { "Est. Settlement Date": "08/12/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Purchase Owner Occupied Dwelling",
+    "amount": 400600,
+    "user_reference": 205458,
+    "client_account": {
+      "id": "5d825ba8-423b-4cf7-8e39-4d05dd2e6044",
+      "primary_applicant_info": {
+        "mobile": "0467-900-929",
+        "email": "bfowler@example.org"
+      },
+      "name": "Carlos Woodward"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "7c6bd586-d7d5-4021-ab9b-de1bc24fc695",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "14/09/2024" },
+      "key_dates": { "Auction Date": "10/09/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Debt Consolidation",
+    "amount": 899802,
+    "user_reference": 860056,
+    "client_account": {
+      "id": "7ae89887-ab19-4f0a-97ed-9aff312762da",
+      "primary_applicant_info": {
+        "mobile": "(08)-4231-2999",
+        "email": "julie75@example.net"
+      },
+      "name": "Nathan Hernandez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "c52d20fd-7275-46c6-8bd0-ecb38cbabe8c",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "18/01/2024" },
+      "key_dates": { "Fixed Rate Expiry": "17/02/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Medical Purchase",
+    "amount": 438085,
+    "user_reference": 742149,
+    "client_account": {
+      "id": "1ae38a40-2c29-4435-8040-8ed574203310",
+      "primary_applicant_info": {
+        "mobile": "(03).3271.6971",
+        "email": "hrose@example.com"
+      },
+      "name": "Kaitlin Graham"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "147bf888-a69b-4817-849c-0aa4dbac98b6",
+    "attributes": {
+      "past_key_dates": { "Settled": "06/07/2024" },
+      "key_dates": { "Fixed Rate Expiry": "17/02/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Construction",
+    "amount": 890618,
+    "user_reference": 252488,
+    "client_account": {
+      "id": "57355aee-b8f0-448e-80cf-4d1cd6a43709",
+      "primary_applicant_info": {
+        "mobile": "0539.9204",
+        "email": "greenelizabeth@example.org"
+      },
+      "name": "Nicholas Nguyen"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "bd21d584-37b9-4b7c-ae1e-435a312ca878",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "14/07/2024" },
+      "key_dates": { "Pre-Approval Expiry": "09/01/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Purchase Vacant Land",
+    "amount": 361331,
+    "user_reference": 630558,
+    "client_account": {
+      "id": "eade4bd4-b197-468e-8952-ce1e123dbe1d",
+      "primary_applicant_info": {
+        "mobile": "+61 490 104 057",
+        "email": "hoffmanhannah@example.org"
+      },
+      "name": "Jessica Black"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "fbb103f9-5a01-434b-bd60-17848bb5de97",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "08/06/2024" },
+      "key_dates": { "Finance Due": "01/05/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Bridging",
+    "amount": 12324,
+    "user_reference": 722115,
+    "client_account": {
+      "id": "4d7b8c03-93b4-489b-814c-af58c7095cf3",
+      "primary_applicant_info": {
+        "mobile": "+61-422-656-599",
+        "email": "charlescody@example.com"
+      },
+      "name": "James Hill"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "027328b7-aab7-4f80-8a21-46d0ff1bb699",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "30/07/2024" },
+      "key_dates": { "Pre-Approval Expiry": "19/12/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Leisure Purchase",
+    "amount": 260318,
+    "user_reference": 338741,
+    "client_account": {
+      "id": "fa570d7d-c460-41bc-bb47-463db6d6546b",
+      "primary_applicant_info": {
+        "mobile": "(02)30985910",
+        "email": "katiewhitaker@example.net"
+      },
+      "name": "Stephen Hernandez"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "6435fb16-3b66-490a-8f36-167871deaf12",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "05/04/2024" },
+      "key_dates": { "Pre-Approval Expiry": "14/01/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Construct / Renovate Owner Occupied Dwelling",
+    "amount": 714313,
+    "user_reference": 559872,
+    "client_account": {
+      "id": "f9e92f33-01c1-4d94-bb13-5c42c6a1b49d",
+      "primary_applicant_info": {
+        "mobile": "+61.491.963.427",
+        "email": "iblack@example.net"
+      },
+      "name": "Debbie Chen"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "beaaf63e-91dc-458b-b37e-7ab626768a90",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "16/04/2024" },
+      "key_dates": { "Auction Date": "27/03/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Construction",
+    "amount": 480575,
+    "user_reference": 540940,
+    "client_account": {
+      "id": "180dea58-065b-43ef-b9e0-062516373589",
+      "primary_applicant_info": {
+        "mobile": "0446-664-163",
+        "email": "ptaylor@example.org"
+      },
+      "name": "Linda Lam"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "3e550d01-c88a-4b08-bba6-9210099c6b12",
+    "attributes": {
+      "past_key_dates": { "Pre-Approval Expiry": "27/08/2024" },
+      "key_dates": { "Finance Due": "16/11/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Vehicle Purchase",
+    "amount": 133899,
+    "user_reference": 147176,
+    "client_account": {
+      "id": "be6f2ac9-7f87-4650-af2b-2bc92db6cdde",
+      "primary_applicant_info": {
+        "mobile": "+61 8 5745 3824",
+        "email": "mgilmore@example.com"
+      },
+      "name": "Beth Johnson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "326b5440-ac82-43fe-b09d-3be003749abf",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "17/11/2024" },
+      "key_dates": { "Auction Date": "22/08/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 256646,
+    "user_reference": 488922,
+    "client_account": {
+      "id": "1a1de460-8405-47c3-b576-904fe0cbe54c",
+      "primary_applicant_info": {
+        "mobile": "(02) 9071 2547",
+        "email": "cmalone@example.net"
+      },
+      "name": "Monica Smith"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "6564d354-2a45-47af-af70-42ac64b97ddf",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "06/10/2024" },
+      "key_dates": { "Finance Due": "04/04/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 608245,
+    "user_reference": 531518,
+    "client_account": {
+      "id": "d9d37531-2631-4467-9e9f-6f9ff646a72a",
+      "primary_applicant_info": {
+        "mobile": "0466 291 392",
+        "email": "adam87@example.com"
+      },
+      "name": "James Harvey"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "3c7f11ba-6041-4098-b89e-ee93ab69f883",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "20/07/2024" },
+      "key_dates": { "Finance Due": "19/07/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Other Purpose",
+    "amount": 530534,
+    "user_reference": 601843,
+    "client_account": {
+      "id": "c5e0366a-b895-4913-bf30-fbfe21f550a0",
+      "primary_applicant_info": {
+        "mobile": "(02) 0611 0680",
+        "email": "renee58@example.net"
+      },
+      "name": "Karina Wells"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "cd2619c4-063b-48c4-a771-78a2738f10eb",
+    "attributes": {
+      "past_key_dates": { "Settled": "06/01/2024" },
+      "key_dates": { "Settled": "28/10/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Purchase Owner Occupied Dwelling",
+    "amount": 797064,
+    "user_reference": 880598,
+    "client_account": {
+      "id": "b39a7701-a8c1-4bf8-9d8e-e23759206739",
+      "primary_applicant_info": {
+        "mobile": "07 4248 7832",
+        "email": "john44@example.net"
+      },
+      "name": "Brian May"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "dc192bd2-baa3-417f-b9b6-c8ba6c05caf8",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "30/01/2024" },
+      "key_dates": { "Settled": "08/10/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 522705,
+    "user_reference": 378046,
+    "client_account": {
+      "id": "a7cf040b-1892-4dd4-bf68-8521e3ec1929",
+      "primary_applicant_info": {
+        "mobile": "0445.972.105",
+        "email": "jamessanchez@example.net"
+      },
+      "name": "Andres Berger"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "f18e05ca-398e-42f3-ae35-a33094024eff",
+    "attributes": {
+      "past_key_dates": { "Finance Due": "12/03/2024" },
+      "key_dates": { "Fixed Rate Expiry": "19/04/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 292838,
+    "user_reference": 341180,
+    "client_account": {
+      "id": "93c465ca-812e-4e7b-bb31-712434c719d2",
+      "primary_applicant_info": {
+        "mobile": "28688781",
+        "email": "david92@example.com"
+      },
+      "name": "Robert Soto"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "65f4a096-ebc4-48df-8140-b3fdab74ebbd",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "16/08/2024" },
+      "key_dates": { "Settled": "26/11/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 324055,
+    "user_reference": 282382,
+    "client_account": {
+      "id": "e12976ec-d5b9-413d-a7ba-56ec162b8ff2",
+      "primary_applicant_info": {
+        "mobile": "0487-509-419",
+        "email": "kendrascott@example.com"
+      },
+      "name": "David Jones"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "29c0c0bb-6434-4fc8-ba14-2b43647d1b38",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "12/09/2024" },
+      "key_dates": { "Est. Settlement Date": "04/12/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Purchase Investment Property",
+    "amount": 654030,
+    "user_reference": 324283,
+    "client_account": {
+      "id": "5dd94777-726f-4932-a7cb-f9b312fa2a22",
+      "primary_applicant_info": {
+        "mobile": "+61.449.633.108",
+        "email": "savannah72@example.org"
+      },
+      "name": "Jackie Carlson"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "b8463958-e33c-4eaf-bdb3-3a317b03583e",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "12/11/2024" },
+      "key_dates": { "Auction Date": "16/03/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Other Purpose",
+    "amount": 40512,
+    "user_reference": 751714,
+    "client_account": {
+      "id": "499f30b8-45b3-44c1-8151-ccf5994cc9d4",
+      "primary_applicant_info": {
+        "mobile": "+61.401.121.109",
+        "email": "blackjill@example.net"
+      },
+      "name": "Benjamin Kerr"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "677cbd6b-1547-4a02-9c6f-39ea70c91998",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "18/08/2024" },
+      "key_dates": { "Auction Date": "18/03/2024, 00:00:00" }
+    },
+    "lender_reference": "SUN",
+    "purpose": "Refinance",
+    "amount": 513514,
+    "user_reference": 226566,
+    "client_account": {
+      "id": "bda58bf1-8ef8-43a3-99b7-b43e1140025d",
+      "primary_applicant_info": {
+        "mobile": "0439.126.181",
+        "email": "broberts@example.net"
+      },
+      "name": "Jeremy Washington"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "f535bbd2-6906-4708-b04a-7f62e028ebfa",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "11/05/2024" },
+      "key_dates": { "Pre-Approval Expiry": "11/03/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 721187,
+    "user_reference": 851086,
+    "client_account": {
+      "id": "7c60a53a-38cd-4886-bd7d-525bbba14e11",
+      "primary_applicant_info": {
+        "mobile": "02-7865-3053",
+        "email": "cristina94@example.org"
+      },
+      "name": "Mr. David Cox"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "24fa6c81-5c9b-473a-abf0-dc058905228d",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "24/04/2024" },
+      "key_dates": { "Auction Date": "21/07/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Vehicle Purchase",
+    "amount": 930127,
+    "user_reference": 346119,
+    "client_account": {
+      "id": "ed8177c2-de67-4153-ad6a-07deeb3703c2",
+      "primary_applicant_info": {
+        "mobile": "+61243335677",
+        "email": "jeffreymedina@example.com"
+      },
+      "name": "Vincent Alexander"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "c946ea99-fa13-4d03-a11a-d8cb8c52d67b",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "06/09/2024" },
+      "key_dates": { "Finance Due": "28/09/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Purchase Vacant Land",
+    "amount": 766444,
+    "user_reference": 291666,
+    "client_account": {
+      "id": "a148faf5-cad1-4371-add4-86e494eead7c",
+      "primary_applicant_info": {
+        "mobile": "(07)92717021",
+        "email": "anthonythompson@example.org"
+      },
+      "name": "Amanda Brown"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "6d9f99a8-98e8-41f6-84dd-94f0e1a913b1",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "13/11/2024" },
+      "key_dates": { "Est. Settlement Date": "18/09/2024, 00:00:00" }
+    },
+    "lender_reference": "AMP",
+    "purpose": "Leisure Purchase",
+    "amount": 972534,
+    "user_reference": 359007,
+    "client_account": {
+      "id": "1fc4c0b3-0220-4b6b-b79c-a166fbd8a8b6",
+      "primary_applicant_info": {
+        "mobile": "07-7704-7693",
+        "email": "leachstephanie@example.com"
+      },
+      "name": "Whitney Mcneil"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "963cb656-e248-42ce-a0fe-c1b52196c962",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "01/03/2024" },
+      "key_dates": { "Settled": "03/03/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Purchase Investment Property",
+    "amount": 981048,
+    "user_reference": 823317,
+    "client_account": {
+      "id": "6955f166-bdd3-4db9-af29-9990e5a18e44",
+      "primary_applicant_info": {
+        "mobile": "0323874132",
+        "email": "kimberly95@example.org"
+      },
+      "name": "Susan Mendoza"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "a98fedfd-0bc3-49a2-be98-cbd34b947a49",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "20/02/2024" },
+      "key_dates": { "Pre-Approval Expiry": "29/06/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Other Purpose (Consumer Finance)",
+    "amount": 718180,
+    "user_reference": 493771,
+    "client_account": {
+      "id": "330f80f5-7f51-4202-8aed-22a38f6980f2",
+      "primary_applicant_info": {
+        "mobile": "15783667",
+        "email": "maxwellmatthew@example.net"
+      },
+      "name": "Tiffany Frazier"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "829e514c-a9f5-4b30-8a73-24695cca82a0",
+    "attributes": {
+      "past_key_dates": { "Auction Date": "01/08/2024" },
+      "key_dates": { "Pre-Approval Expiry": "01/06/2024, 00:00:00" }
+    },
+    "lender_reference": "WES",
+    "purpose": "Other Purpose",
+    "amount": 818386,
+    "user_reference": 334117,
+    "client_account": {
+      "id": "8d53712b-6dab-4df1-b5c2-f45697fb624a",
+      "primary_applicant_info": {
+        "mobile": "0494-354-368",
+        "email": "darincurry@example.org"
+      },
+      "name": "Gabriel Montoya"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "734156ff-4184-4fa3-bf48-6e7ccb239e90",
+    "attributes": {
+      "past_key_dates": { "Settled": "21/10/2024" },
+      "key_dates": { "Finance Due": "05/07/2024, 00:00:00" }
+    },
+    "lender_reference": "ANZ",
+    "purpose": "Construct/Renovate Investment Property",
+    "amount": 363652,
+    "user_reference": 790606,
+    "client_account": {
+      "id": "e5924dd3-7da8-4430-a90e-c303e3b05975",
+      "primary_applicant_info": {
+        "mobile": "19032397",
+        "email": "fsnyder@example.org"
+      },
+      "name": "Brian Huerta"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "60e93995-d410-4151-958b-178163c9d2d7",
+    "attributes": {
+      "past_key_dates": { "Est. Settlement Date": "26/11/2024" },
+      "key_dates": { "Pre-Approval Expiry": "28/12/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Construction",
+    "amount": 900568,
+    "user_reference": 257754,
+    "client_account": {
+      "id": "da1d125a-da21-44de-9bda-b721934365d4",
+      "primary_applicant_info": {
+        "mobile": "0418 775 346",
+        "email": "rodneyberry@example.com"
+      },
+      "name": "Andrea Kelly"
+    }
+  },
+  {
+    "type": "Application",
+    "id": "38bd515d-9fa0-4b98-9a2c-66dcf56c5581",
+    "attributes": {
+      "past_key_dates": { "Fixed Rate Expiry": "30/04/2024" },
+      "key_dates": { "Fixed Rate Expiry": "12/02/2024, 00:00:00" }
+    },
+    "lender_reference": "CBA",
+    "purpose": "Purchase Vacant Land",
+    "amount": 909874,
+    "user_reference": 756780,
+    "client_account": {
+      "id": "45f3614c-c1e8-42b0-a057-e38511057f22",
+      "primary_applicant_info": {
+        "mobile": "3680.9514",
+        "email": "fcasey@example.com"
+      },
+      "name": "Rebecca Davis"
+    }
+  }
+]

@@ -1,0 +1,100 @@
+@use "@angular/material" as mat;
+
+// Import variables first so they're available globally
+@import "variables";
+
+// Include theme styles for core and each component used in your app.
+@include mat.core();
+
+// Define a custom theme
+$custom-primary: mat.define-palette(
+  (
+    50: #e1f5ee,
+    100: #c3ebdd,
+    200: #a5e1cc,
+    300: #87d7bb,
+    400: #69cdaa,
+    500: #4ea48a,
+    600: #3e836e,
+    700: #2e6252,
+    800: #1f4136,
+    900: #0f201b,
+    contrast: (
+      50: rgba(black, 0.87),
+      100: rgba(black, 0.87),
+      200: rgba(black, 0.87),
+      300: rgba(black, 0.87),
+      400: rgba(black, 0.87),
+      500: white,
+      600: white,
+      700: white,
+      800: white,
+      900: white,
+    ),
+  )
+);
+
+$custom-theme: mat.define-light-theme(
+  (
+    color: (
+      primary: $custom-primary,
+      accent: $custom-primary,
+      warn: mat.define-palette(mat.$red-palette),
+    ),
+    typography:
+      mat.define-typography-config(
+        $body-1:
+          mat.define-typography-level(
+            $font-size: 15px,
+            $line-height: 1.5,
+            $font-weight: 400,
+          ),
+        $body-2:
+          mat.define-typography-level(
+            $font-size: 15px,
+            $line-height: 1.5,
+            $font-weight: 400,
+          ),
+      ),
+    density: 0,
+  )
+);
+
+// Apply the theme
+@include mat.all-component-themes($custom-theme);
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: $text-primary;
+  background-color: $background-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.page-wrapper {
+  padding: 15px 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  box-sizing: border-box;
+
+  @media screen and (max-width: 1470px) {
+    padding: 0 15px;
+  }
+}
+
+div.mat-mdc-select-panel {
+  max-height: max(50vh, 320px) !important;
+}

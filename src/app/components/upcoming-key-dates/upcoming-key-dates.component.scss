@@ -1,0 +1,489 @@
+// Import variables
+@import "variables";
+
+// Component-specific styles can be added here
+
+.upcoming-key-dates-widget {
+  background-color: $white;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.075);
+  overflow: hidden;
+}
+
+.header-wrapper {
+  padding: 20px 20px 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+
+  @media screen and (max-width: 767px) {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 16px;
+
+    h2 {
+      margin: 0;
+    }
+  }
+
+  .date-range-group {
+    display: flex;
+    align-items: stretch;
+    border: 1px solid $divider-color;
+    border-radius: 4px;
+    overflow: hidden;
+
+    @media screen and (max-width: 767px) {
+      width: 100%;
+
+      mat-form-field {
+        flex: 1;
+        min-width: 0;
+      }
+
+      .date-range-select {
+        width: 160px;
+        max-width: 160px;
+      }
+    }
+
+    @media screen and (max-width: 575px) {
+      flex-direction: column;
+      border: none;
+      gap: 16px;
+
+      .divider {
+        display: none;
+      }
+
+      .date-range-select,
+      mat-form-field {
+        width: 100% !important;
+        max-width: unset;
+      }
+    }
+
+    .date-range-select {
+      width: 160px;
+      margin: 0;
+
+      ::ng-deep {
+        .mat-mdc-form-field-subscript-wrapper {
+          display: none;
+        }
+
+        .mat-mdc-text-field-wrapper {
+          background-color: transparent;
+          padding: 0;
+        }
+
+        .mat-mdc-form-field-flex {
+          margin: 0;
+          padding: 0 15px;
+          height: 42px;
+          align-items: center;
+        }
+
+        .mat-mdc-form-field-infix {
+          padding: 0;
+          height: 42px;
+          display: flex;
+          align-items: center;
+        }
+      }
+    }
+
+    .divider {
+      width: 1px;
+      background-color: $divider-color;
+    }
+
+    mat-form-field {
+      width: 260px;
+      margin: 0;
+
+      ::ng-deep {
+        .mat-mdc-form-field-subscript-wrapper {
+          display: none;
+        }
+
+        .mat-mdc-form-field-flex {
+          margin: 0;
+          padding: 0;
+          height: 42px;
+          align-items: center;
+        }
+
+        .mat-mdc-form-field-icon-prefix {
+          padding: 0;
+        }
+
+        .mat-mdc-form-field-infix {
+          padding: 0;
+          height: 42px;
+          display: flex;
+          align-items: center;
+        }
+
+        .mdc-text-field--outlined {
+          padding-right: 0;
+        }
+
+        .mdc-notched-outline__leading,
+        .mdc-notched-outline__notch,
+        .mdc-notched-outline__trailing {
+          border-color: $divider-color;
+
+          @media screen and (min-width: 576px) {
+            border-width: 0 !important;
+          }
+        }
+
+        .mdc-icon-button {
+          &:hover,
+          &:active {
+            .calendar-icon {
+              opacity: $opacity-high;
+            }
+          }
+
+          .calendar-icon {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            background-image: url("./calendar-icon.svg");
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            opacity: $opacity-medium;
+            transition: opacity 0.1s ease;
+          }
+
+          .mat-mdc-button-ripple,
+          .mdc-icon-button__ripple {
+            display: none !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Tab styles
+mat-tab-group {
+  margin-bottom: 10px;
+
+  ::ng-deep {
+    .mat-mdc-tab-list {
+      flex-grow: unset;
+    }
+
+    .mat-mdc-tab {
+      height: 42px;
+      padding: 0 16px;
+      border: 1px solid $border-color;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+
+      &:first-child {
+        border-top-left-radius: 4px;
+        border-bottom-left-radius: 4px;
+      }
+
+      &:last-child {
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+      }
+
+      + .mat-mdc-tab {
+        border-left: none;
+      }
+
+      &.mdc-tab--active {
+        background-color: $primary-color;
+        border-color: $primary-color;
+
+        .mdc-tab__text-label {
+          color: $white;
+        }
+      }
+    }
+
+    .mdc-tab__text-label {
+      letter-spacing: 0;
+      transition: none;
+      user-select: none;
+    }
+
+    .mdc-tab-indicator {
+      display: none;
+    }
+  }
+}
+
+// Table styles
+.mat-mdc-table {
+  border: none;
+  box-shadow: none;
+  position: relative;
+
+  @media screen and (max-width: 1199px) {
+    display: block;
+
+    ::ng-deep {
+      .mdc-data-table__content {
+        display: block;
+      }
+    }
+
+    .mat-mdc-header-row {
+      display: none;
+    }
+
+    .mat-mdc-row {
+      display: block;
+      height: auto;
+      padding: 12px 0;
+      border-top: 2px solid rgba(0, 0, 0, $opacity-low);
+      overflow: hidden;
+    }
+
+    .mat-mdc-cell {
+      display: block;
+      width: 100% !important;
+      position: relative;
+      padding-top: 38px !important;
+
+      + .mat-mdc-cell {
+        border-top: 1px solid rgba(0, 0, 0, $opacity-low);
+      }
+
+      &::before {
+        content: attr(data-label);
+        position: absolute;
+        top: 12px;
+        left: 16px;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: $text-secondary;
+      }
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+  }
+
+  .mat-mdc-header-row {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: $table-header-bg;
+    color: inherit;
+  }
+
+  .mat-mdc-row {
+    color: inherit;
+
+    &:nth-child(even) {
+      background-color: $table-background-even;
+    }
+  }
+
+  .mat-mdc-header-cell {
+    background-color: $table-header-bg;
+    font-weight: 600;
+    padding: 12px 16px;
+    user-select: none;
+  }
+
+  .mat-mdc-cell {
+    border-bottom: none;
+    padding: 16px;
+
+    .email {
+      a {
+        color: inherit;
+        text-decoration: none;
+        transition: all 0.15s ease;
+
+        &:hover,
+        &:active {
+          color: $primary-color;
+        }
+      }
+    }
+  }
+
+  // Column widths (3:4:1:2:2)
+  @media screen and (min-width: 1024px) {
+    .mat-column-client {
+      width: 17%;
+    }
+
+    .mat-column-lenderReference {
+      width: 38%;
+    }
+
+    .mat-column-keyDate {
+      width: 10%;
+    }
+
+    .mat-column-type {
+      width: 14%;
+    }
+
+    .mat-column-contact {
+      width: 21%;
+    }
+  }
+
+  .key-date-type {
+    font-weight: 500;
+  }
+
+  .key-date-value {
+    padding: 4px 16px;
+    border-radius: 14px;
+    background-color: $chip-bg;
+    text-align: center;
+    display: table;
+
+    &.critical-date {
+      background-color: $critical-date-bg;
+      color: $critical-date-text;
+    }
+
+    &.upcoming-date {
+      background-color: $upcoming-date-bg;
+      color: $upcoming-date-text;
+    }
+
+    &.future-date {
+      background-color: $future-date-bg;
+      color: $future-date-text;
+    }
+  }
+}
+
+// Client column styles
+.client-info {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  text-decoration: none;
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    .client-name {
+      color: $primary-color;
+    }
+  }
+
+  .client-avatar {
+    width: 40px;
+    min-width: 40px;
+    height: 40px;
+    background-color: $primary-color;
+    color: $white;
+    border-radius: 9999px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    overflow: hidden;
+  }
+
+  .client-name {
+    font-weight: 600;
+    text-decoration: underline;
+    transition: all 0.15s ease;
+  }
+}
+
+// Loan details styles
+.loan-details {
+  display: grid;
+  grid-template-columns: minmax(135px, 0.9fr) minmax(0, 2.1fr);
+  gap: 16px;
+
+  .loan-info-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 135px;
+
+    .lender-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+
+      .lender-logo img {
+        width: 42px;
+        height: 42px;
+        object-fit: contain;
+      }
+
+      .lender-name {
+        font-weight: 500;
+      }
+    }
+  }
+
+  .loan-info-right {
+    background-color: $loan-info-bg;
+    border-radius: 4px;
+    padding: 12px;
+  }
+}
+
+// Loading and error states
+.loading-container,
+.error-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  text-align: center;
+}
+
+.error-container {
+  color: $critical-date-text;
+}
+
+.loading-text {
+  margin-top: 8px;
+}
+
+.loading-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: sticky;
+  bottom: 0;
+  z-index: 1;
+
+  span {
+    color: $text-muted;
+  }
+}
+
+.empty-state {
+  padding: 32px 20px;
+  text-align: center;
+  background-color: $background-color;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}

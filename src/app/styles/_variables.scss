@@ -1,0 +1,38 @@
+$font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-size-base: 15px;
+
+// Primary colors
+$primary-color: #4ea48a;
+$primary-dark: #006445;
+$primary-light: #e1f5ee;
+
+// Neutral colors
+$background-color: #f5f5f5;
+$table-background-even: #f7f9f9;
+$table-header-bg: #eff4f5;
+$white: #ffffff;
+$black: #000000;
+
+// Text colors
+$text-primary: #1b2e31;
+$text-secondary: #999999;
+$text-muted: rgba(0, 0, 0, 0.6);
+
+// Status colors
+$critical-date-bg: #fcf3f2;
+$critical-date-text: #a63124;
+$upcoming-date-bg: #fefaec;
+$upcoming-date-text: #a84d20;
+$future-date-bg: $primary-light;
+$future-date-text: $primary-dark;
+
+// UI Element colors
+$divider-color: rgba(0, 0, 0, 0.12);
+$border-color: #e0e6e6;
+$chip-bg: #f2f4f7;
+$loan-info-bg: #efefef;
+
+// Opacity values
+$opacity-high: 0.85;
+$opacity-medium: 0.67;
+$opacity-low: 0.08;
